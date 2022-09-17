@@ -11,7 +11,7 @@
           "correctIndex": 1
         },
         {
-          "question": "यदि किसी संख्या के  62% और 80% के बीच का अंतर 198 है, तो उस संख्या के  92% और 56% के बीच अंतर ज्ञात कीजिए।",
+          "question": "<math xmlns='http://www.w3.org/1998/Math/MathML' display='block'> <mstyle displaystyle='true' scriptlevel='0'> <mrow data-mjx-texclass='ORD'> <mtable rowspacing='.5em' columnspacing='1em' displaystyle='true'> <mtr> <mtd> <mfrac> <mi>&#x3C0;</mi> <mrow> <mn>2</mn> <mstyle displaystyle='true' scriptlevel='0'> <munder> <mo data-mjx-texclass='OP'>&#x2211;</mo> <mrow data-mjx-texclass='ORD'> <mtable data-mjx-smallmatrix='true' columnspacing='0em' rowspacing='0.1em'> <mtr> <mtd> <mn>0</mn> <mo>&lt;</mo> <mi>i</mi> <mo>&lt;</mo> <mi>m</mi> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> <mo>&lt;</mo> <mi>j</mi> <mo>&lt;</mo> <mi>n</mi> </mtd> </mtr> </mtable> </mrow> </munder> <mi>P</mi> <mo stretchy='false'>(</mo> <mi>i</mi> <mo>,</mo> <mi>j</mi> <mo stretchy='false'>)</mo> </mstyle> </mrow> </mfrac> </mtd> </mtr> </mtable> </mrow> </mstyle></math>",
           "answers": [
             "1100",
             "360",
